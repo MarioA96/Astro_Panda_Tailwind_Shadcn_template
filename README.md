@@ -1,6 +1,6 @@
 # Astro-PandaCss-Tailwind-Shadcn_template
 
-## Guia para integrar Panda con Tailwind (*y eventualmente si se desea con shadcn*)
+## Guia para integrar Panda con Tailwind y Shadcn
 
 1. #### Primero debes de instalar Astro
     - Desde aqui: [Astro Build](https://docs.astro.build/en/install-and-setup/#start-a-new-project)
