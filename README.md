@@ -167,4 +167,4 @@
 #### BONUS - Podemos ejecutar el comando: ``` npm run prepare ``` y para ver el sitio con ``` npm run dev ```
 
 ### RESULTADO ESPERADO: 
-[imagen resultado](/public/resultado.png)
+![imagen resultado](/public/resultado.png)
