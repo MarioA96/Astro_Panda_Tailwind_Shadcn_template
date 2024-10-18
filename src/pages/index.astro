@@ -1,0 +1,21 @@
+---
+import '../index.css'
+
+import { css } from '../../styled-system/css';
+import { Button } from '@/components/ui/button';
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Astro</title>
+	</head>
+	<body>
+		<h1 class={ css({ fontSize: '4xl', fontWeight: 'bold' }) }>Panda</h1>
+		<h1 class="text-xl font-bold">Tailwind</h1>
+		<Button>Shadcn</Button>
+	</body>
+</html>
