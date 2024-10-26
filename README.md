@@ -1,5 +1,11 @@
 # Astro-PandaCss-Tailwind-Shadcn_template
 
+- Si se esta usando la version clon de este proyecto debes editar el archivo: package.json y package-lock.json en el nivel superior por el nombre de tu proyecto.
+- Posterior a esto debes de eliminar el archivo components.json y volver a ejecutar el comando: 
+```shell
+    $> npx shadcn@latest init
+```
+
 ## Guia para integrar Panda con Tailwind y Shadcn
 
 1. #### Primero debes de instalar Astro
